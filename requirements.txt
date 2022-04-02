@@ -1,0 +1,5 @@
+gym
+matplotlib
+opencv-python
+numpy
+tensorflow
