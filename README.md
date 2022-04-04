@@ -8,7 +8,7 @@ Degree's thesis about Reinforcement Learning (RL), Deep RL and Optimization and 
 
 - **University**: Nanyang Technological University
 
-- **Master**: Bachelor Degree School of Electrical and Electronic Engineering
+- **Master**: Bachelor Degree in School of Electrical and Electronic Engineering
 
   
 
