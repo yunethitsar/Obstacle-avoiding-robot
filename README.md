@@ -1,6 +1,6 @@
 ## Solving Obstacle Avoidance in custom enviroment with Reinforcement Learning and Deep Neural Network 
 
-Master's thesis about Reinforcement Learning (RL), Deep RL and Optimization and dynamic environment.
+Degree's thesis about Reinforcement Learning (RL), Deep RL and Optimization and dynamic environment.
 
 - **Author**: Nang Yune Thitsar
 
