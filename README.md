@@ -2,11 +2,11 @@
 
 Master's thesis about Reinforcement Learning (RL), Deep RL and Optimization and dynamic environment.
 
-- **Author**: Naung Yune Thitsar
+- **Author**: Nang Yune Thitsar
 
 - **Tuto**r: Professor Hu, Guoqiang
 
-- **University**: Nyanyang Technological University
+- **University**: Nanyang Technological University
 
 - **Master**: Bachelor Degree School of Electrical and Electronic Engineering
 
