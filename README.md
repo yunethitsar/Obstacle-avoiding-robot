@@ -4,7 +4,7 @@ Degree's thesis about Reinforcement Learning (RL), Deep RL and Optimization and 
 
 - **Author**: Nang Yune Thitsar
 
-- **Tuto**r: Professor Hu, Guoqiang
+- **Supervisor**: Professor Hu, Guoqiang
 
 - **University**: Nanyang Technological University
 
