@@ -1,0 +1,10 @@
+sudo apt-get install python3-pip
+sudo apt install python3.8-venv
+
+python3 -m venv pyenv
+source pyenv/bin/python3/activate
+pip3 install jupyterlab
+
+jupyter notebook --generate-config
+jupyter notebook password
+jupyter-lab --ip 0.0.0.0 --no-browser
